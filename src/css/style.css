@@ -498,7 +498,7 @@ nav {
 
 .promo {
   min-height: 700px;
-  background: url(/src/img/main_bg.jpg) center center/cover no-repeat;
+  background: url(../img/main_bg.jpg) center center/cover no-repeat;
   padding: 200px 0 0 0;
 }
 
@@ -746,7 +746,7 @@ nav {
 .car {
   min-height: 864px;
   padding: 57px 0 138px 0;
-  background: url(/src/img/car_layout.png) center center/cover no-repeat;
+  background: url(../img/car_layout.png) center center/cover no-repeat;
   position: relative;
 }
 
@@ -852,7 +852,7 @@ nav {
   top: 3px;
   width: 21px;
   height: 20px;
-  background: url(/src/icons/icon_blue.png) center center/cover no-repeat;
+  background: url(../icons/icon_blue.png) center center/cover no-repeat;
 }
 
 .label {
@@ -883,13 +883,13 @@ nav {
 }
 
 .warning .require_list li:before {
-  background: url(/src/icons/icon_red.png) center center/cover no-repeat;
+  background: url(../icons/icon_red.png) center center/cover no-repeat;
 }
 
 .map {
   height: 717px;
   padding: 49px 0;
-  background: url(/src/img/map.jpg) center center/cover no-repeat;
+  background: url(../img/map.jpg) center center/cover no-repeat;
   position: relative;
 }
 
